@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:8d76f5ed756ceec4caa815d0f84510b8$ -->
+<TextureAtlas imagePath="creativeCloud.png">
+    <SubTexture name="1291906017" x="191" y="252" width="144" height="130"/>
+    <SubTexture name="1291906068" x="337" y="252" width="144" height="130"/>
+    <SubTexture name="1291906154" x="191" y="516" width="180" height="144"/>
+    <SubTexture name="1291906238" x="2" y="662" width="180" height="144"/>
+    <SubTexture name="1291906369" x="266" y="384" width="130" height="130"/>
+    <SubTexture name="1291906429" x="184" y="662" width="144" height="144"/>
+    <SubTexture name="1291906491" x="2" y="2" width="144" height="102"/>
+    <SubTexture name="1291906628" x="120" y="120" width="173" height="116"/>
+    <SubTexture name="1291906698" x="295" y="120" width="173" height="130"/>
+    <SubTexture name="1291906767" x="2" y="516" width="187" height="144"/>
+    <SubTexture name="1291906839" x="2" y="252" width="187" height="130"/>
+    <SubTexture name="1291906908" x="2" y="384" width="130" height="130"/>
+    <SubTexture name="1291906965" x="2" y="808" width="144" height="144"/>
+    <SubTexture name="1291907035" x="330" y="662" width="144" height="144"/>
+    <SubTexture name="1291907096" x="148" y="808" width="173" height="144"/>
+    <SubTexture name="1291907179" x="2" y="120" width="116" height="116"/>
+    <SubTexture name="1291907255" x="134" y="384" width="130" height="130"/>
+    <SubTexture name="1291907354" x="148" y="2" width="130" height="109"/>
+    <SubTexture name="1291907415" x="280" y="2" width="130" height="116"/>
+    <SubTexture name="Ramayana_0005_RavanHead_Big" x="323" y="808" width="150" height="175"/>
+</TextureAtlas>

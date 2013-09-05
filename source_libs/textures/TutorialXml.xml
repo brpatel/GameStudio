@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:0ea15dbb73ab93eece454a11ad3b25b4$ -->
+<TextureAtlas imagePath="tutorial.png">
+    <SubTexture name="logo" x="1764" y="688" width="229" height="71"/>
+    <SubTexture name="logo_en" x="1764" y="615" width="243" height="71"/>
+    <SubTexture name="schritt1_1_1" x="1764" y="516" width="247" height="97"/>
+    <SubTexture name="schritt1_1_2" x="1450" y="259" width="391" height="255"/>
+    <SubTexture name="schritt1_1_2_en" x="1450" y="2" width="391" height="255"/>
+    <SubTexture name="schritt1_2_1" x="2" y="1382" width="311" height="431"/>
+    <SubTexture name="schritt1_2_1_en" x="2" y="949" width="311" height="431"/>
+    <SubTexture name="schritt1_3_1" x="1764" y="761" width="227" height="97"/>
+    <SubTexture name="schritt1_3_2" x="1843" y="83" width="160" height="79"/>
+    <SubTexture name="schritt1_3_2_en" x="1843" y="2" width="160" height="79"/>
+    <SubTexture name="schritt1_4_1" x="1450" y="516" width="312" height="431"/>
+    <SubTexture name="schritt2_1_1" x="726" y="430" width="722" height="407"/>
+    <SubTexture name="schritt2_1_1_en" x="2" y="430" width="722" height="407"/>
+    <SubTexture name="schritt3_1_1" x="726" y="2" width="722" height="426"/>
+    <SubTexture name="schritt3_1_1_en" x="2" y="2" width="722" height="426"/>
+    <SubTexture name="schritt3_2_1" x="315" y="839" width="310" height="431"/>
+    <SubTexture name="schritt4_1_1" x="1013" y="994" width="696" height="417"/>
+    <SubTexture name="schritt4_1_1_en" x="315" y="1272" width="696" height="417"/>
+    <SubTexture name="schritt4_2_1" x="725" y="839" width="721" height="153"/>
+    <SubTexture name="schritt4_2_1_en" x="2" y="1815" width="721" height="153"/>
+</TextureAtlas>
